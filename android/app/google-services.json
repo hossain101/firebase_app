@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12893447649",
+    "project_id": "ninjafirebase-cc430",
+    "storage_bucket": "ninjafirebase-cc430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12893447649:android:3a6de980bacf388035dea0",
+        "android_client_info": {
+          "package_name": "com.shoaib.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12893447649-uahs80r5vmiaoet93ahb3724t98jrqrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDorsvt18IFdHGnllJGTBMVGToAJggHxRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12893447649-uahs80r5vmiaoet93ahb3724t98jrqrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
